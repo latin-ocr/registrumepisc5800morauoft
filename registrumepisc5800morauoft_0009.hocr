@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./registrumepisc5800morauoft_0009.png"; bbox 0 0 2072 2774; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 289 847 1643 1284">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 289 847 1643 1284">
+     <span class='ocr_line' id='line_1_1' title="bbox 737 847 1189 895; baseline -0.002 0"><span class='ocrx_word' id='word_1_1' title='bbox 737 847 1189 895; x_wconf 85' lang='lat' dir='ltr'>PRESENTED</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 429 1042 1493 1090; baseline 0 -1"><span class='ocrx_word' id='word_1_2' title='bbox 429 1043 522 1089; x_wconf 82' lang='lat' dir='ltr'>TO</span> <span class='ocrx_word' id='word_1_3' title='bbox 570 1043 726 1090; x_wconf 89' lang='lat' dir='ltr'>THE</span> <span class='ocrx_word' id='word_1_4' title='bbox 778 1042 1246 1090; x_wconf 87' lang='lat' dir='ltr'>BANNATYNE</span> <span class='ocrx_word' id='word_1_5' title='bbox 1298 1043 1493 1090; x_wconf 83' lang='lat' dir='ltr'>CLUB</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 289 1235 1643 1284; baseline 0.001 -2"><span class='ocrx_word' id='word_1_6' title='bbox 289 1237 383 1283; x_wconf 86' lang='lat' dir='ltr'>BY</span> <span class='ocrx_word' id='word_1_7' title='bbox 431 1236 588 1283; x_wconf 85' lang='lat' dir='ltr'>THE</span> <span class='ocrx_word' id='word_1_8' title='bbox 639 1235 832 1282; x_wconf 90' lang='lat' dir='ltr'>LATE</span> <span class='ocrx_word' id='word_1_9' title='bbox 882 1235 1041 1282; x_wconf 90' lang='lat' dir='ltr'>AND</span> <span class='ocrx_word' id='word_1_10' title='bbox 1090 1236 1246 1283; x_wconf 89' lang='lat' dir='ltr'>THE</span> <span class='ocrx_word' id='word_1_11' title='bbox 1299 1236 1643 1284; x_wconf 83' lang='lat' dir='ltr'>PRESENT</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 473 1427 1452 1475">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 473 1427 1452 1475">
+     <span class='ocr_line' id='line_1_4' title="bbox 473 1427 1452 1475; baseline 0.001 -1"><span class='ocrx_word' id='word_1_12' title='bbox 473 1427 729 1474; x_wconf 87' lang='lat' dir='ltr'>DUKES</span> <span class='ocrx_word' id='word_1_13' title='bbox 779 1427 872 1473; x_wconf 89' lang='lat' dir='ltr'>OF</span> <span class='ocrx_word' id='word_1_14' title='bbox 923 1427 1452 1475; x_wconf 78' lang='lat' dir='ltr'>SUTHERLAND.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
